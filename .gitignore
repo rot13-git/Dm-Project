@@ -1,2 +1,12 @@
 dataset/02-14-2018.csv
 dataset/androbin.parquet.zip
+dataset/archive.zip
+dataset/archive/Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
+dataset/archive/Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv
+dataset/archive/Friday-WorkingHours-Morning.pcap_ISCX.csv
+dataset/archive/Monday-WorkingHours.pcap_ISCX.csv
+dataset/archive/Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv
+dataset/archive/Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv
+dataset/archive/Tuesday-WorkingHours.pcap_ISCX.csv
+dataset/archive/Wednesday-workingHours.pcap_ISCX.csv
+dataset/kaggle.json
