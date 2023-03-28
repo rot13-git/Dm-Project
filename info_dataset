@@ -1,12 +1,3 @@
-
-IAT:  time between two packets sent
-
-length : lunghezza compreso header etc
-size: solo dato
-
-
-
-
 0   Dst Port           Destination port of connection.  
 1   Protocol           Protocol used during connection.
 2   Timestamp          Time that connection occured.
