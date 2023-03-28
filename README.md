@@ -1,4 +1,4 @@
-# Dm-Project
+# Progetto Data Mining: Intrusion Detection System
 
 Il seguente progetto si pone come scopo l'analisi di dati provenienti da Intrusion Detection Systems (IDSs), i quali sono i più importanti strumenti di difesa per gli attacchi sempre più sofisticati che attaccano le reti.
 
